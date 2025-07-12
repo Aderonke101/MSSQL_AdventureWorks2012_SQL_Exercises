@@ -1,10 +1,6 @@
 # AdventureWorks2012 SQL Practice
 
-This repository contains structured SQL practice queries based on Microsoft's AdventureWorks2012 sample database. It is designed to demonstrate a range of SQL skills using Microsoft SQL Server (MSSQL).
-
-# 🧠 AdventureWorks2012 SQL Practice
-
-This repository showcases my structured and in-depth SQL practice using Microsoft's **AdventureWorks2012** sample database. It covers essential to advanced SQL concepts in real-world scenarios — from filtering and aggregation to joins, subqueries, views, and window functions.
+This repository contains structured SQL practice queries based on Microsoft's AdventureWorks2012 sample database. It is designed to demonstrate a range of SQL skills using Microsoft SQL Server (MSSQL). This repository also showcases my structured and in-depth SQL practice using Microsoft's **AdventureWorks2012** sample database. It covers essential to advanced SQL concepts in real-world scenarios — from filtering and aggregation to joins, subqueries, views, and window functions.
 
 ---
 
