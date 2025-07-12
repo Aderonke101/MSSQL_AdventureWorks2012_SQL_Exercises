@@ -1,6 +1,6 @@
 # AdventureWorks2012 SQL Practice
 
-This repository contains structured SQL practice queries based on Microsoft's AdventureWorks2012 sample database. It is designed to demonstrate a range of SQL skills using Microsoft SQL Server (MSSQL). This repository also showcases my structured and in-depth SQL practice using Microsoft's **AdventureWorks2012** sample database. It covers essential to advanced SQL concepts in real-world scenarios — from filtering and aggregation to joins, subqueries, views, and window functions.
+This repository contains structured SQL practice queries based on Microsoft's AdventureWorks2012 sample database. It is designed to demonstrate a range of SQL skills using Microsoft SQL Server (MSSQL). This repository also showcases my structured and in-depth SQL practice using Microsoft's **AdventureWorks2012** sample database. It covers essential to advanced SQL concepts in real-world scenarios, from filtering and aggregation to joins, subqueries, views, and window functions.
 
 ---
 
@@ -55,7 +55,7 @@ The goal of this project was to strengthen my understanding of SQL using the Adv
 
 ##  Why This Project Matters
 
-Practicing SQL using real-life relational databases like AdventureWorks helps simulate what analysts and engineers do daily — from ad-hoc reporting to building data pipelines. It’s a critical skill in data analysis, business intelligence, and backend development.
+Practicing SQL using real-life relational databases like AdventureWorks helps simulate what analysts and engineers do daily.....from ad-hoc reporting to building data pipelines. It’s a critical skill in data analysis, business intelligence, and backend development.
 
 ---
 
